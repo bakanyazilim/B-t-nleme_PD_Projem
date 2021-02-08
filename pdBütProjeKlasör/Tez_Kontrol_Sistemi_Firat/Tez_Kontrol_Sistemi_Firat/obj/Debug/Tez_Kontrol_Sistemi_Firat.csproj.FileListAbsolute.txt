@@ -1,0 +1,15 @@
+C:\Users\Berat BAKAN\Source\Repos\Tez_Kontrol_Sistemi_Firat\Tez_Kontrol_Sistemi_Firat\bin\Debug\Tez_Kontrol_Sistemi_Firat.exe.config
+C:\Users\Berat BAKAN\Source\Repos\Tez_Kontrol_Sistemi_Firat\Tez_Kontrol_Sistemi_Firat\bin\Debug\Tez_Kontrol_Sistemi_Firat.exe
+C:\Users\Berat BAKAN\Source\Repos\Tez_Kontrol_Sistemi_Firat\Tez_Kontrol_Sistemi_Firat\bin\Debug\Tez_Kontrol_Sistemi_Firat.pdb
+C:\Users\Berat BAKAN\Source\Repos\Tez_Kontrol_Sistemi_Firat\Tez_Kontrol_Sistemi_Firat\obj\Debug\Tez_Kontrol_Sistemi_Firat.csprojAssemblyReference.cache
+C:\Users\Berat BAKAN\Source\Repos\Tez_Kontrol_Sistemi_Firat\Tez_Kontrol_Sistemi_Firat\obj\Debug\Tez_Kontrol_Sistemi_Firat.Frm_Login.resources
+C:\Users\Berat BAKAN\Source\Repos\Tez_Kontrol_Sistemi_Firat\Tez_Kontrol_Sistemi_Firat\obj\Debug\Tez_Kontrol_Sistemi_Firat.Properties.Resources.resources
+C:\Users\Berat BAKAN\Source\Repos\Tez_Kontrol_Sistemi_Firat\Tez_Kontrol_Sistemi_Firat\obj\Debug\Tez_Kontrol_Sistemi_Firat.csproj.GenerateResource.cache
+C:\Users\Berat BAKAN\Source\Repos\Tez_Kontrol_Sistemi_Firat\Tez_Kontrol_Sistemi_Firat\obj\Debug\Tez_Kontrol_Sistemi_Firat.csproj.CoreCompileInputs.cache
+C:\Users\Berat BAKAN\Source\Repos\Tez_Kontrol_Sistemi_Firat\Tez_Kontrol_Sistemi_Firat\obj\Debug\Tez_Kontrol_Sistemi_Firat.exe
+C:\Users\Berat BAKAN\Source\Repos\Tez_Kontrol_Sistemi_Firat\Tez_Kontrol_Sistemi_Firat\obj\Debug\Tez_Kontrol_Sistemi_Firat.pdb
+C:\Users\Berat BAKAN\Source\Repos\Tez_Kontrol_Sistemi_Firat\Tez_Kontrol_Sistemi_Firat\obj\Debug\Tez_Kontrol_Sistemi_Firat.Frm_Kontrol_Ekrani.resources
+C:\Users\Berat BAKAN\Source\Repos\Tez_Kontrol_Sistemi_Firat\Tez_Kontrol_Sistemi_Firat\obj\Debug\Tez_Kontrol_Sistemi_Firat.Frm_Parola_Hatırlatma.resources
+C:\Users\Berat BAKAN\Source\Repos\Tez_Kontrol_Sistemi_Firat\Tez_Kontrol_Sistemi_Firat\obj\Debug\Tez_Kontrol_Sistemi_Firat.Frm_Üyelik_İslemleri.resources
+C:\Users\Berat BAKAN\Source\Repos\Tez_Kontrol_Sistemi_Firat\Tez_Kontrol_Sistemi_Firat\obj\Debug\Tez_Kontrol_Sistemi_Firat.Frm_Üyeler.resources
+C:\Users\Berat BAKAN\Source\Repos\Tez_Kontrol_Sistemi_Firat\Tez_Kontrol_Sistemi_Firat\obj\Debug\Tez_Kontrol_Sistemi_Firat.Frm_Üye_Ekle.resources
